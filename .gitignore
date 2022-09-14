@@ -1,0 +1,5 @@
+*.conf
+testing_zone.ipynb
+files_heartrate/
+files_sleep/
+__pycache__/
