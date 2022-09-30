@@ -1,3 +1,5 @@
+Data pipeline for personal Fitbit information using the Fitbit API.
+
 # Fitbit Data Tracking Using Airflow
 
 This personal project does the following:
